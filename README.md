@@ -22,3 +22,9 @@ Las herramientas utilizadas durante el desarrollo del proyecto han sido las sigu
 
 - [Atom.io](https://atom.io/) -  Editor de código.
 - [Python 2.7](https://www.python.org/download/releases/2.7/) - Lenguaje de programación utilizado.
+
+## Hardware
+
+Raspberry Pi 2 :
+
+<img src="https://github.com/tidus747/Utilidades_RaspberryPi/hardware/RPi-2.png" align="center" width="450" />
