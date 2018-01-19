@@ -27,4 +27,4 @@ Las herramientas utilizadas durante el desarrollo del proyecto han sido las sigu
 
 Raspberry Pi 2 :
 
-<img src="https://github.com/tidus747/Utilidades_RaspberryPi/hardware/RPi-2.png" align="center" width="450" />
+<img src="https://github.com/tidus747/Utilidades_RaspberryPi/blob/master/HARDWARE/RPi-2.png" align="center" width="450" />
