@@ -27,10 +27,16 @@ Las herramientas utilizadas durante el desarrollo del proyecto han sido las sigu
 
 Raspberry Pi 2 :
 
-<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/RASPBERRY_PI_2_B_05.png"  width="450" align="center" />
+<p align="center">
+  <img width="460" height="300" src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/RASPBERRY_PI_2_B_05.png">
+</p>
 
 LCD 16x2 + I2C Driver:
 
-<img src="https://github.com/tidus747/Utilidades_RaspberryPi/blob/master/HARDWARE/LCD16x2.png"  width="450" align="center" />
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tidus747/Utilidades_RaspberryPi/blob/master/HARDWARE/LCD16x2.png">
+</p>
 
-<img src="https://camo.githubusercontent.com/6891805c3f115f39bc7cb2db639cd0a52eef4ab0/687474703a2f2f666f72756d732e736c696d646576696365732e636f6d2f6174746163686d656e742e7068703f6174746163686d656e7469643d323237393326643d31343936303932353833"  width="450" align="center" />
+<p align="center">
+  <img width="460" height="300" src="https://camo.githubusercontent.com/6891805c3f115f39bc7cb2db639cd0a52eef4ab0/687474703a2f2f666f72756d732e736c696d646576696365732e636f6d2f6174746163686d656e742e7068703f6174746163686d656e7469643d323237393326643d31343936303932353833">
+</p>
