@@ -1,3 +1,5 @@
+<img src="https://www.raspberrypi.org/app/uploads/2017/06/Powered-by-Raspberry-Pi-Logo_Outline-Colour-Screen-500x153.png" align="right" />
+
 # Utilidades para Raspberry Pi
 > Utilidades varias para las Raspberry Pi 2 y 3
 
