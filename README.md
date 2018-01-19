@@ -1,4 +1,4 @@
-# Utilidades_para Raspberry
+# Utilidades para Raspberry Pi
 > Utilidades varias para las Raspberry Pi 2 y 3
 
 ## ¿Dónde conectaremos los dispositivos a nuestra Raspberry Pi?
